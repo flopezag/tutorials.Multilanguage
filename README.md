@@ -1,4 +1,4 @@
-# Multilingual tutorial
+# Multilingual tutorial [Archived]
 [<img src="https://img.shields.io/badge/NGSI-LD-d6604d.svg" width="90"  align="left" />](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.07.01_60/gs_cim009v010701p.pdf)
 [<img src="https://fiware.github.io/tutorials.Getting-Started/img/Fiware.png" align="left" width="162">](https://www.fiware.org/)<br/>
 
@@ -12,6 +12,8 @@ This tutorial examines the management multilingual capabilities inside the ETSI 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/flopezag/tutorials.Multilanguage/tree/develop)
 
 ## Contents
+
+This repository has been archived.
 
 <details>
 <summary><strong>Details</strong></summary>
